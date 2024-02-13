@@ -36,21 +36,21 @@
 |MQTT| protocolo de mensajería ligero para la comunicación entre dispositivos IoT|Gratuito|
 |MicroPython| lenguaje de programación optimizado para microcontroladores |Gratuito|
 
-##Descripcion del proyecto
+## Descripcion del proyecto
 
-##Sistema de encendido de luces por palmadas:
+## Sistema de encendido de luces por palmadas:
 
 Utilizar sensores de sonido o micrófonos estratégicamente ubicados en diferentes áreas de la casa.
 Configurar un sistema que interprete patrones específicos de sonido, como palmadas, para activar o desactivar las luces.
 Integra el sistema con una plataforma de domótica para permitir el control remoto y la programación.
 
-##Sistema de riego automático:
+## Sistema de riego automático:
 
 Instalar sensores de humedad en el suelo para medir las condiciones actuales.
 Conectar válvulas de riego automáticas a un sistema central que pueda activarse según los niveles de humedad registrados.
 Utilizar una aplicación móvil o una interfaz web para programar horarios específicos de riego o controlar manualmente el sistema.
 
-##Sistema de alarma de movimiento:
+## Sistema de alarma de movimiento:
 
 Instalar sensores de movimiento en puntos estratégicos alrededor del hogar.
 Conectar estos sensores a un sistema de alarma que puede activarse automáticamente en caso de detección de movimiento.
@@ -61,13 +61,13 @@ Implementar cerraduras electrónicas que se pueden controlar mediante una aplica
 Configurar perfiles de acceso para diferentes miembros de la familia y visitantes.
 Registrar y recibir notificaciones sobre la actividad de acceso.
 
-##Sistema detector de humo:
+## Sistema detector de humo:
 
 Instalar detectores de humo conectados a una red central.
 Configurar alertas automáticas que se envíen a los propietarios del hogar y/o servicios de emergencia en caso de detección de humo.
 Integrar el sistema con alarmas sonoras y luces de emergencia.
 
-##Sistema de rastreo de mascotas:
+## Sistema de rastreo de mascotas:
 
 Utilizar collares o dispositivos pequeños con tecnología de geolocalización para rastrear la ubicación de las mascotas.
 Conectar estos dispositivos a una aplicación que permita a los propietarios monitorear la ubicación en tiempo real y establecer zonas seguras.
