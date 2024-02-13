@@ -2,8 +2,7 @@
 
 
 ## Nombre del proyecto
-
--
+Proyecto de Aplicaciones de IoT
 
 ##  Nombre Integrantes Equipo
 
@@ -28,7 +27,7 @@
 |Resistencias|Emite sonido para las ovejas|2|$9.00|
 |Resistencias|Emite sonido para las ovejas|2|$9.00|
 
-##Programas necesarios
+## Programas necesarios
 
 |Nombre del Programa | Descripcion | Precio|
 |-|-|-|
