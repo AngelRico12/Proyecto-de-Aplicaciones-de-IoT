@@ -15,17 +15,17 @@ Proyecto de Aplicaciones de IoT
 
 |Nom Componente | Descripcion | Cantidad| Precio|
 |-|-|-|-|
-|Raspberry Pi 4B||1|$140.00|
-|Sensor de humedad|Cables para conexion de prototipos de pruebas|50|$60.00|
-|Sensor de movimiento|Detector De Movimiento|2|$55.00|
-|Sensor de sonido|Se utilizan leds para iluminar la maqueta.|6|$70.00|
-|Sensor de humo|servomotor con movimiento de 180 grados para el pastor y ovejas|2|$50.00|
-|Motores|kit de soldador para los motores|1| $90.00|
-|Leds|Emite sonido para las ovejas|2|$9.00|
-|ESP32|Emite sonido para las ovejas|2|$9.00|
-|Cables|Emite sonido para las ovejas|2|$9.00|
-|Resistencias|Emite sonido para las ovejas|2|$9.00|
-|Resistencias|Emite sonido para las ovejas|2|$9.00|
+|Raspberry Pi 4B|mini ordenador|1|$1550.00|
+|Sensor de humedad|utilizado en espacios interiores para controlar la humedad del aire|2|$105.00|
+|Sensor de movimiento|Detector De Movimiento|2|$53.00|
+|Sensor de sonido|Se utilizan para detectar las ondas sonoras|1|$49.00|
+|Sensor de humo|utilizado en espacios interiores para controlar la existencia de humo|2|$50.00|
+|Motores|motores de movimiento a paso|1| $90.00|
+|Leds|Emite luz para iluminar un area|2|$9.00|
+|ESP32|Microcontrolador de bajo costo y consumo de energía|2|$185.00|
+|Cables|Para realizar las conexiones correspondientes|2|$9.00|
+|Resistencias|Diseñado para introducir una resistencia eléctrica determinada|15|$9.00|
+
 
 ## Programas necesarios
 
