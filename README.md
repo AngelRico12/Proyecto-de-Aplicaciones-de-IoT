@@ -15,16 +15,16 @@ Proyecto de Aplicaciones de IoT
 
 |Nom Componente | Descripcion | Cantidad| Precio| Imagen|
 |-|-|-|-|-|
-|Raspberry Pi 4B|mini ordenador|1|$1550.00|
-|Sensor de humedad|utilizado en espacios interiores para controlar la humedad del aire|2|$105.00|
-|Sensor de movimiento|Detector De Movimiento|2|$53.00|
-|Sensor de sonido|Se utilizan para detectar las ondas sonoras|1|$49.00|
-|Sensor de humo|utilizado en espacios interiores para controlar la existencia de humo|2|$50.00|
-|Motores|motores de movimiento a paso|1| $90.00|
-|Leds|Emite luz para iluminar un area|2|$9.00|
-|ESP32|Microcontrolador de bajo costo y consumo de energía|2|$185.00|
-|Cables|Para realizar las conexiones correspondientes|2|$9.00|
-|Resistencias|Diseñado para introducir una resistencia eléctrica determinada|15|$9.00|
+|Raspberry Pi 4B|mini ordenador|1|$1550.00| https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/61LG5t4dUDL._AC_UF894%2C1000_QL80_.jpg|
+|Sensor de humedad|utilizado en espacios interiores para controlar la humedad del aire|2|$105.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/HumiditySensor.jpg|
+|Sensor de movimiento|Detector De Movimiento|2|$53.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/sensorMovimiento.jpg|
+|Sensor de sonido|Se utilizan para detectar las ondas sonoras|1|$49.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/SendorSound.jpg|
+|Sensor de humo|utilizado en espacios interiores para controlar la existencia de humo|2|$50.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/sensor-de-humo-y-gas.jpg|
+|Motores|motores de movimiento a paso|1| $90.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/motorapaso.jpg|
+|Leds|Emite luz para iluminar un area|2|$9.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/leds.jpg|
+|ESP32|Microcontrolador de bajo costo y consumo de energía|2|$185.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/esp32.jpg|
+|Cables|Para realizar las conexiones correspondientes|2|$9.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/cablesDupont.jpg|
+|Resistencias|Diseñado para introducir una resistencia eléctrica determinada|15|$9.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/resistencias.jpg|
 
 
 ## Programas necesarios
