@@ -13,8 +13,8 @@ Proyecto de Aplicaciones de IoT
 
 ## Materiales a utilizar
 
-|Nom Componente | Descripcion | Cantidad| Precio|
-|-|-|-|-|
+|Nom Componente | Descripcion | Cantidad| Precio| Imagen|
+|-|-|-|-|-|
 |Raspberry Pi 4B|mini ordenador|1|$1550.00|
 |Sensor de humedad|utilizado en espacios interiores para controlar la humedad del aire|2|$105.00|
 |Sensor de movimiento|Detector De Movimiento|2|$53.00|
