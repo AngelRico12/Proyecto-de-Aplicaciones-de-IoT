@@ -2,7 +2,7 @@
 
 
 ## Nombre del proyecto
-Proyecto de Aplicaciones de IoT
+Oficina inteligente
 
 ##  Nombre Integrantes Equipo
 
