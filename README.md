@@ -36,7 +36,7 @@ Oficina inteligente
 |MicroPython| lenguaje de programación optimizado para microcontroladores |Gratuito|
 
 ## Descripcion del proyecto
-proyecto para un hogar automatizado, la tecnología se fusiona para ofrecer un entorno más eficiente y cómodo. A través de un sistema de domótica centralizado, varias tecnologías se integran para automatizar tareas clave.
+proyecto para una oficina automatizada, la tecnología se fusiona para ofrecer un entorno más eficiente y cómodo. A través de un sistema de domótica centralizado, varias tecnologías se integran para automatizar tareas clave.
 
 Un sistema centralizado coordina tecnologías como el encendido de luces por sonido, riego automático, alarma de movimiento, control de acceso, detector de humo y rastreo de mascotas. Los sensores de sonido activan las luces con palmadas, los niveles de humedad dirigen el riego, y los sensores de movimiento desencadenan alarmas de seguridad. El control de acceso utiliza cerraduras electrónicas con perfiles personalizados, mientras que detectores de humo conectados y rastreo de mascotas brindan seguridad adicional.
 
