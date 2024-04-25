@@ -115,7 +115,12 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 
 ## Boceto
 
-https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/Boceto%204.jpeg
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/e6c000fd-43c2-4ce3-b355-ae34713cf552)
+
+
+## Conexión fritzing
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b7803074-29fe-4cad-93e9-b88968e4002e)
 
 
 ## Software
