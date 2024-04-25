@@ -45,13 +45,13 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 | Placa ESP-32            | $250         | 1        |  |
 | ESP-32 Cam              | $250         | 1        | ![espcam](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8d904e35-9f18-4bfb-8c6c-6fd260f72d0b)
  |
-| Controlador ESP32-Cam   | $100         | 1        | ![espcamController](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/d8a3d350-f269-4fa8-907b-84b782f6e626)
+| Controlador ESP32-Cam   | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8527399e-e620-4480-aa8e-9f430a7d1281)
  |
-| Protoboard              | $50          | 1        | ![protoboard](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/0b6cca3e-6b61-4c1c-9658-cf72cae74265)
+| Protoboard              | $50          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7)
  |
-| Motor servo             | $70          | 1        | ![servo](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/553eaa8d-cbf8-40b3-8e3a-91bdf28b5c8b)
+| Motor servo             | $70          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8489d51e-cc61-467f-876e-7fa0e0ceed10)
  |
-| Cables                  | $100         | Varios   | ![cables](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/1211be2e-4066-4100-8542-687268ffe3be)
+| Cables                  | $100         | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312)
  |
 
 ## Boceto
