@@ -95,7 +95,10 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci�
 
 ## Boceto
 
-https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/Boceto%203.jpeg
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/3a58646c-79ca-4f23-b560-e5588fd511a8)
+
+## Conexión fritzing
+
 
 
 ### Mostrador Fotográfico Interactivo
