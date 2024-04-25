@@ -1,6 +1,6 @@
 # Fotografía Inteligente: Innovación Domótica en Estudio Familiar
 
-##Integrantes
+### Integrantes
 - Claudio Angel Huerta Ducoing   1222100432
 - Jose Angel Rangel Rico         1222100483
 
@@ -66,6 +66,8 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 | Cables                  | $100         | Varios   | [Imagen] |
 
 ## Boceto
+
+https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/Boceto%202.jpeg
 
 
 ### Control de Inventario con RFID
