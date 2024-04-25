@@ -21,10 +21,21 @@ Además, la falta de un sistema de alerta eficiente para la entrada de clientes 
 
 Por último, la presentación estática y poco atractiva de los trabajos fotográficos en el estudio no logra captar suficientemente la atención de los clientes. Esto puede limitar nuestras oportunidades de promocionar y vender nuestros servicios, ya que no estamos mostrando de manera efectiva la calidad y diversidad de los trabajos realizados.
 
+## Visión del Proyecto:
+Transformación Digital: El proyecto representa una evolución significativa en la industria de la fotografía, incorporando tecnología de vanguardia para adaptarse a las demandas cambiantes del mercado. La integración de sistemas domóticos permite al estudio familiar posicionarse como un referente en innovación y eficiencia.
+
+Experiencia del Cliente Mejorada: Con la implementación de sistemas de detección de entrada y un mostrador fotográfico interactivo, el estudio ofrece una experiencia más personalizada y atractiva para los clientes. La atención inmediata al cliente al entrar al local y la presentación dinámica de los trabajos fotográficos aumentan el compromiso y la satisfacción del cliente.
+
+Eficiencia Operativa: La automatización de tareas como el control de inventario mediante RFID y la detección de objetos con sensores ultrasónicos optimiza los procesos operativos del estudio. Se reducen los errores, se minimizan las pérdidas de tiempo y se mejora la precisión en la gestión del inventario, lo que conlleva a una mayor eficiencia y rentabilidad del negocio.
+
+Diferenciación Competitiva: La adopción de tecnologías avanzadas posiciona al estudio fotográfico familiar como un pionero en su sector. La capacidad de ofrecer servicios innovadores y una experiencia única para los clientes se convierte en un factor clave para destacar frente a la competencia y captar nuevos clientes.
+
+Escalabilidad y Adaptabilidad: La modularidad de los sistemas implementados permite al estudio adaptarse fácilmente a futuras necesidades y expansiones. Además, la integración de software como Thonny, Grafana y Node-Red proporciona herramientas flexibles para monitorear y gestionar los sistemas de manera eficiente.
+
 ## Propuesta de Solución
 Para abordar los desafíos identificados en nuestro estudio fotográfico familiar, proponemos una solución integral basada en la implementación de sistemas de domótica avanzados. Estos sistemas permitirán automatizar diversas tareas operativas, mejorar la eficiencia en la gestión del inventario, optimizar la atención al cliente y presentar de manera atractiva los trabajos fotográficos realizados.
 
-### Automatización y Control de Inventario
+### Sistema de seguridad y detección
 Implementaremos un sistema de detección y visualización de objetos mediante el circuito ESP-CAM. Este sistema utilizará sensores ultrasónicos y cámaras ESP-32 Cam para realizar un inventario visual rápido y preciso, eliminando así los errores y pérdidas de tiempo asociados con la gestión manual del inventario.
 
 **Materiales**
