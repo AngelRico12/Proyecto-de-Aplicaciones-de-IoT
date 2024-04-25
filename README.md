@@ -112,3 +112,10 @@ https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagene
 - Node-Red
 - Fritzing
 - Aplicación de la ESP-32 Cam
+- 
+## Conexión y Funcionalidad 
+| ID  | Historia de Usuario                            | Prioridad | Estimación | Como Probarlo   | Responsable |
+|-----|-----------------------------------------------|-----------|------------|-----------------|-------------|
+| 1   | Conexiones del circuito utilizando Fritzzing    | Alta      | 2 horas    | Verificar las conexiones visuales en el software y confirmar que coinciden con el diseño del circuito. | [Nombre del Responsable] |
+| 2   | Configuración de la Raspberry Pi y ESP32 para la comunicación inalámbrica | Alta | 3 horas | Verificar la conexión entre la Raspberry Pi y el ESP32 a través de la comunicación inalámbrica. | [Nombre del Responsable] |
+| 3   | Implementación de funcionalidades específicas en Raspberry Pi y ESP32 | Media | 5 horas | Verificar que las funcionalidades diseñadas se ejecuten correctamente en ambas plataformas. | [Nombre del Responsable] |
