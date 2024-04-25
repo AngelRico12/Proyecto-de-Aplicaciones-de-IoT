@@ -1,78 +1,83 @@
-## Proyecto-IOT
+# Fotografía Inteligente: Innovación Domótica en Estudio Familiar
 
+##Integrantes
+- Claudio Angel Huerta Ducoing   1222100432
+- Jose Angel Rangel Rico         1222100483
 
-## Nombre del proyecto
-Oficina inteligente
+## Introducción
+El proyecto "Fotografía Inteligente: Innovación Domótica en Estudio Familiar" busca transformar un estudio fotográfico familiar tradicional en un espacio moderno y eficiente mediante la implementación de sistemas de domótica avanzados. La combinación de tecnologías como sensores ultrasónicos, cámaras, RFID y controladores permite automatizar diversas tareas, mejorar la experiencia del cliente y optimizar la gestión del negocio.
 
-##  Nombre Integrantes Equipo
+## Objetivos
+- Implementar sistemas de domótica que mejoren la eficiencia y la experiencia del cliente.
+- Desarrollar un sistema de detección de objetos mediante ultrasonido y cámara.
+- Crear un sistema de detección de entrada para avisar cuando un cliente entre al local.
+- Implementar un sistema de control de inventario mediante RFID.
+- Crear un mostrador fotográfico interactivo para mostrar el trabajo del estudio de manera llamativa.
 
-|Nombre | Apellido Paterno | Apellido Materno |
-|-|-|-|
-|Jose Angel|Rangel|Rico|
-|Claudio Angel|Huerta|Ducoing|
+## Problemática
+En el estudio fotográfico familiar nos encontramos con varios desafíos que impactan directamente en nuestra operación diaria y en la experiencia que ofrecemos a nuestros clientes. Uno de los principales problemas es la gestión manual del inventario, que conlleva a errores, pérdidas de tiempo y dificultades para mantener un registro preciso de los objetos y equipos disponibles. Esta falta de precisión en el inventario puede llevar a pérdidas económicas y a una gestión ineficiente de los recursos.
 
-## Materiales a utilizar
+Además, la falta de un sistema de alerta eficiente para la entrada de clientes representa otro desafío. Sin un sistema que nos notifique de manera inmediata cuando un cliente entra al local, corremos el riesgo de perder oportunidades de venta al no poder atender a los clientes de manera oportuna y personalizada.
 
-|Nom Componente | Descripcion | Cantidad| Precio| Imagen|
-|-|-|-|-|-|
-|Raspberry Pi 4B|mini ordenador|1|$1550.00| https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/61LG5t4dUDL._AC_UF894%2C1000_QL80_.jpg|
-|Sensor de humedad|utilizado en espacios interiores para controlar la humedad del aire|2|$105.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/HumiditySensor.jpg|
-|Sensor de movimiento|Detector De Movimiento|2|$53.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/sensorMovimiento.jpg|
-|Sensor de sonido|Se utilizan para detectar las ondas sonoras|1|$49.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/SendorSound.jpg|
-|Sensor de humo|utilizado en espacios interiores para controlar la existencia de humo|2|$50.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/sensor-de-humo-y-gas.jpg|
-|Motores|motores de movimiento a paso|1| $90.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/motorapaso.jpg|
-|Leds|Emite luz para iluminar un area|2|$9.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/leds.jpg|
-|ESP32|Microcontrolador de bajo costo y consumo de energía|2|$185.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/esp32.jpg|
-|Cables|Para realizar las conexiones correspondientes|2|$9.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/cablesDupont.jpg|
-|Resistencias|Diseñado para introducir una resistencia eléctrica determinada|15|$9.00|https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/resistencias.jpg|
+Por último, la presentación estática y poco atractiva de los trabajos fotográficos en el estudio no logra captar suficientemente la atención de los clientes. Esto puede limitar nuestras oportunidades de promocionar y vender nuestros servicios, ya que no estamos mostrando de manera efectiva la calidad y diversidad de los trabajos realizados.
 
+## Propuesta de Solución
+Para abordar los desafíos identificados en nuestro estudio fotográfico familiar, proponemos una solución integral basada en la implementación de sistemas de domótica avanzados. Estos sistemas permitirán automatizar diversas tareas operativas, mejorar la eficiencia en la gestión del inventario, optimizar la atención al cliente y presentar de manera atractiva los trabajos fotográficos realizados.
 
-## Programas necesarios
+### Automatización y Control de Inventario
+Implementaremos un sistema de detección y visualización de objetos mediante el circuito ESP-CAM. Este sistema utilizará sensores ultrasónicos y cámaras ESP-32 Cam para realizar un inventario visual rápido y preciso, eliminando así los errores y pérdidas de tiempo asociados con la gestión manual del inventario.
 
-|Nombre del Programa | Descripcion | Precio|
-|-|-|-|
-|Node-Red |un entorno de programación visual que permite crear flujos de datos|Gratuito|
-|MQTT| protocolo de mensajería ligero para la comunicación entre dispositivos IoT|Gratuito|
-|MicroPython| lenguaje de programación optimizado para microcontroladores |Gratuito|
+**Materiales**
+| Material                | Precio (MXN) | Cantidad | Imagen |
+|-------------------------|--------------|----------|--------|
+| Placa ESP-32            | $250         | 1        | [Imagen] |
+| ESP-32 Cam              | $250         | 1        | [Imagen] |
+| Controlador ESP32-Cam   | $100         | 1        | [Imagen] |
+| Protoboard              | $50          | 1        | [Imagen] |
+| Motor servo             | $70          | 1        | [Imagen] |
+| Cables                  | $100         | Varios   | [Imagen] |
 
-## Descripcion del proyecto
-proyecto para una oficina automatizada, la tecnología se fusiona para ofrecer un entorno más eficiente y cómodo. A través de un sistema de domótica centralizado, varias tecnologías se integran para automatizar tareas clave.
+### Sistema de Alerta para Entrada de Clientes
+Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer activo que alertará al personal del estudio cuando un cliente entre al local. Este sistema mejorará la atención al cliente al permitirnos recibirlos de manera inmediata y personalizada, maximizando así las oportunidades de venta.
 
-Un sistema centralizado coordina tecnologías como el encendido de luces por sonido, riego automático, alarma de movimiento, control de acceso, detector de humo y rastreo de mascotas. Los sensores de sonido activan las luces con palmadas, los niveles de humedad dirigen el riego, y los sensores de movimiento desencadenan alarmas de seguridad. El control de acceso utiliza cerraduras electrónicas con perfiles personalizados, mientras que detectores de humo conectados y rastreo de mascotas brindan seguridad adicional.
+**Materiales**
+| Material                | Precio (MXN) | Cantidad | Imagen |
+|-------------------------|--------------|----------|--------|
+| Placa ESP-32            | $250         | 1        | [Imagen] |
+| Sensores ultrasónicos   | $80          | 2        | [Imagen] |
+| Buzzer activo           | $30          | 1        | [Imagen] |
+| Protoboard              | $100         | 1        | [Imagen] |
+| Cables                  | $100         | Varios   | [Imagen] |
 
-## Sistema de encendido de luces por palmadas:
+### Control de Inventario con RFID
+Implementaremos un sistema de control de inventario mediante RFID (Identificación por Radiofrecuencia). Colocaremos etiquetas RFID en los objetos del inventario y utilizaremos un sensor RFID para escanear estas etiquetas y mantener un registro en tiempo real de los objetos que entran o salen del local. Esto nos permitirá tener un control de inventario más preciso y reducir el riesgo de pérdidas.
 
-Utilizar sensores de sonido o micrófonos estratégicamente ubicados en diferentes áreas de la casa.
-Configurar un sistema que interprete patrones específicos de sonido, como palmadas, para activar o desactivar las luces.
-Integra el sistema con una plataforma de domótica para permitir el control remoto y la programación.
+**Materiales**
+| Material                | Precio (MXN) | Cantidad | Imagen |
+|-------------------------|--------------|----------|--------|
+| Placa ESP-32            | $350         | 1        | [Imagen] |
+| Sensor RFID             | $150         | 1        | [Imagen] |
+| Etiquetas RFID          | $20          | Varios   | [Imagen] |
+| Buzzer activo KY        | $30          | 1        | [Imagen] |
+| Protoboard              | $100         | 1        | [Imagen] |
+| Cables                  | $100         | Varios   | [Imagen] |
 
-## Sistema de riego automático:
+### Mostrador Fotográfico Interactivo
+Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor stepper. Cuando alguien se acerque al mostrador, el sensor PIR activará el motor stepper, poniendo en movimiento una base giratoria que exhibirá muestras fotográficas de los trabajos realizados. Este sistema ofrecerá una presentación dinámica y atractiva del portafolio del estudio, captando la atención de los clientes y promocionando de manera efectiva nuestros servicios fotográficos.
 
-Instalar sensores de humedad en el suelo para medir las condiciones actuales.
-Conectar válvulas de riego automáticas a un sistema central que pueda activarse según los niveles de humedad registrados.
-Utilizar una aplicación móvil o una interfaz web para programar horarios específicos de riego o controlar manualmente el sistema.
+**Materiales**
+| Material                | Precio (MXN) | Cantidad | Imagen |
+|-------------------------|--------------|----------|--------|
+| Placa ESP-32            | $350         | 4        | [Imagen] |
+| Sensor PIR              | $100         | 4        | [Imagen] |
+| Motor stepper           | $300         | 4        | [Imagen] |
+| Protoboard              | $100         | 4        | [Imagen] |
+| Cables                  | $50          | Varios   | [Imagen] |
 
-## Sistema de alarma de movimiento:
-
-Instalar sensores de movimiento en puntos estratégicos alrededor del hogar.
-Conectar estos sensores a un sistema de alarma que puede activarse automáticamente en caso de detección de movimiento.
-Integrar la alarma con notificaciones push a dispositivos móviles y servicios de seguridad remotos.
-Control de acceso:
-
-Implementar cerraduras electrónicas que se pueden controlar mediante una aplicación o mediante la introducción de códigos PIN o tarjetas RFID.
-Configurar perfiles de acceso para diferentes miembros de la familia y visitantes.
-Registrar y recibir notificaciones sobre la actividad de acceso.
-
-## Sistema detector de humo:
-
-Instalar detectores de humo conectados a una red central.
-Configurar alertas automáticas que se envíen a los propietarios del hogar y/o servicios de emergencia en caso de detección de humo.
-Integrar el sistema con alarmas sonoras y luces de emergencia.
-
-## Sistema de rastreo de mascotas:
-
-Utilizar collares o dispositivos pequeños con tecnología de geolocalización para rastrear la ubicación de las mascotas.
-Conectar estos dispositivos a una aplicación que permita a los propietarios monitorear la ubicación en tiempo real y establecer zonas seguras.
-Configurar alertas en caso de que la mascota salga de las áreas designadas.
-
-****
+## Software
+- Thonny
+- Grafana
+- Tinkercad
+- Node-Red
+- Fritzing
+- Aplicación de la ESP-32 Cam
