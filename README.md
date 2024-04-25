@@ -49,6 +49,9 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 | Motor servo             | $70          | 1        | [Imagen] |
 | Cables                  | $100         | Varios   | [Imagen] |
 
+## Boceto
+
+
 ### Sistema de Alerta para Entrada de Clientes
 Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer activo que alertará al personal del estudio cuando un cliente entre al local. Este sistema mejorará la atención al cliente al permitirnos recibirlos de manera inmediata y personalizada, maximizando así las oportunidades de venta.
 
@@ -60,6 +63,9 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 | Buzzer activo           | $30          | 1        | [Imagen] |
 | Protoboard              | $100         | 1        | [Imagen] |
 | Cables                  | $100         | Varios   | [Imagen] |
+
+## Boceto
+
 
 ### Control de Inventario con RFID
 Implementaremos un sistema de control de inventario mediante RFID (Identificación por Radiofrecuencia). Colocaremos etiquetas RFID en los objetos del inventario y utilizaremos un sensor RFID para escanear estas etiquetas y mantener un registro en tiempo real de los objetos que entran o salen del local. Esto nos permitirá tener un control de inventario más preciso y reducir el riesgo de pérdidas.
@@ -74,6 +80,9 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci�
 | Protoboard              | $100         | 1        | [Imagen] |
 | Cables                  | $100         | Varios   | [Imagen] |
 
+## Boceto
+
+
 ### Mostrador Fotográfico Interactivo
 Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor stepper. Cuando alguien se acerque al mostrador, el sensor PIR activará el motor stepper, poniendo en movimiento una base giratoria que exhibirá muestras fotográficas de los trabajos realizados. Este sistema ofrecerá una presentación dinámica y atractiva del portafolio del estudio, captando la atención de los clientes y promocionando de manera efectiva nuestros servicios fotográficos.
 
@@ -85,6 +94,8 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 | Motor stepper           | $300         | 4        | [Imagen] |
 | Protoboard              | $100         | 2        | [Imagen] |
 | Cables                  | $50          | Varios   | [Imagen] |
+
+## Boceto
 
 ## Software
 - Thonny
