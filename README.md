@@ -43,16 +43,11 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 | Material                | Precio (MXN) | Cantidad | Imagen |
 |-------------------------|--------------|----------|--------|
 | Placa ESP-32            | $250         | 1        |  |
-| ESP-32 Cam              | $250         | 1        | ![espcam](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8d904e35-9f18-4bfb-8c6c-6fd260f72d0b)
- |
-| Controlador ESP32-Cam   | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8527399e-e620-4480-aa8e-9f430a7d1281)
- |
-| Protoboard              | $50          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7)
- |
-| Motor servo             | $70          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8489d51e-cc61-467f-876e-7fa0e0ceed10)
- |
-| Cables                  | $100         | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312)
- |
+| ESP-32 Cam              | $250         | 1        | ![espcam](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8d904e35-9f18-4bfb-8c6c-6fd260f72d0b)|
+| Controlador ESP32-Cam   | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8527399e-e620-4480-aa8e-9f430a7d1281)|
+| Protoboard              | $50          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7)|
+| Motor servo             | $70          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8489d51e-cc61-467f-876e-7fa0e0ceed10)|
+| Cables                  | $100         | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312)|
 
 ## Boceto
 
