@@ -73,8 +73,9 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 
 ## Boceto
 
-https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/Boceto%202.jpeg
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a3c3b2e6-9232-4335-b2b4-72fffbb46e6f)
 
+## Conexión fritzing
 
 ### Control de Inventario con RFID
 Implementaremos un sistema de control de inventario mediante RFID (Identificación por Radiofrecuencia). Colocaremos etiquetas RFID en los objetos del inventario y utilizaremos un sensor RFID para escanear estas etiquetas y mantener un registro en tiempo real de los objetos que entran o salen del local. Esto nos permitirá tener un control de inventario más preciso y reducir el riesgo de pérdidas.
