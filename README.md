@@ -79,10 +79,10 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 **Materiales**
 | Material                | Precio (MXN) | Cantidad | Imagen |
 |-------------------------|--------------|----------|--------|
-| Placa ESP-32            | $350         | 4        | [Imagen] |
-| Sensor PIR              | $100         | 4        | [Imagen] |
+| Placa ESP-32            | $350         | 1        | [Imagen] |
+| Sensor PIR              | $100         | 1        | [Imagen] |
 | Motor stepper           | $300         | 4        | [Imagen] |
-| Protoboard              | $100         | 4        | [Imagen] |
+| Protoboard              | $100         | 2        | [Imagen] |
 | Cables                  | $50          | Varios   | [Imagen] |
 
 ## Software
