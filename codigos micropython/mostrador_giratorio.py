@@ -1,4 +1,5 @@
-from machine import Pin
+from machine import Pin, I2C
+from ssd1306 import SSD1306_I2C
 from time import sleep
 import network
 from umqtt.simple import MQTTClient
@@ -37,6 +38,18 @@ TOPIC_CONTROL = "motor/control"
 
 # Variable para controlar el estado del motor
 motor_activado = False
+
+# Configuración de la pantalla OLED
+WIDTH = 128
+HEIGHT = 64
+i2c = I2C(0, scl=Pin(22), sda=Pin(21))  # Configura el bus I2C
+oled = SSD1306_I2C(WIDTH, HEIGHT, i2c)
+
+# Función para mostrar "Bienvenido" en la pantalla OLED
+def mostrar_bienvenido():
+    oled.fill(0)  # Borra la pantalla
+    oled.text("Bienvenido", 20, 20)
+    oled.show()
 
 # Conectar a la red WiFi
 def conectar_wifi():
@@ -79,6 +92,9 @@ client.set_callback(control_callback)
 client.connect()
 client.subscribe(TOPIC_CONTROL)
 
+# Mostrar "Bienvenido" en la pantalla OLED al iniciar
+mostrar_bienvenido()
+
 while True:
     # Revisar si hay mensajes nuevos
     client.check_msg()
@@ -95,5 +111,3 @@ while True:
 
     # Esperar un breve tiempo antes de revisar nuevamente
     sleep(0.1)
-
-
