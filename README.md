@@ -60,7 +60,8 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 | Material                | Precio (MXN) | Cantidad | Imagen |
 |-------------------------|--------------|----------|--------|
 | Placa ESP-32            | $250         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/esp32.jpg |
-| Sensores ultrasónicos   | $80          | 2        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/ultrasonico.jpg |
+| Sensores ultrasónicos   | $80          | 2        | ![ultrasonico](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b20bad43-c1d6-4a52-987a-1e52206c94f2)
+ |
 | Buzzer activo           | $30          | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/buzzer.jpg |
 | Protoboard              | $100         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/protoboard.jpg |
 | Cables                  | $100         | Varios   | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/cables.jpg |
