@@ -87,9 +87,9 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci√
 | Material                | Precio (MXN) | Cantidad | Imagen |
 |-------------------------|--------------|----------|--------|
 | Placa ESP-32            | $350         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8ebe7e59-6268-4eae-b684-dd0d2acd6e15) |
-| Sensor RFID             | $150         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/rfid.jpg |
-| Etiquetas RFID          | $20          | Varios   | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/etiquetasRFID.jpg |
-| Buzzer activo KY        | $30          | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/buzzer.jpg |
+| Sensor RFID             | $150         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/c56e9a4d-c73c-490c-a532-7d67760dcec7)|
+| Etiquetas RFID          | $20          | 5        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/5393b80b-5f70-4dfc-8b7f-214d6d4c3294)|
+| Buzzer activo KY        | $30          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/de9b1723-fa49-4aa6-b563-6baa67a16618) |
 | Protoboard              | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7) |
 | Cables                  | $100         | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
 
