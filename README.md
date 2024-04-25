@@ -42,12 +42,12 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 **Materiales**
 | Material                | Precio (MXN) | Cantidad | Imagen |
 |-------------------------|--------------|----------|--------|
-| Placa ESP-32            | $250         | 1        | [Imagen] |
-| ESP-32 Cam              | $250         | 1        | [Imagen] |
-| Controlador ESP32-Cam   | $100         | 1        | [Imagen] |
-| Protoboard              | $50          | 1        | [Imagen] |
-| Motor servo             | $70          | 1        | [Imagen] |
-| Cables                  | $100         | Varios   | [Imagen] |
+| Placa ESP-32            | $250         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/esp32.jpg |
+| ESP-32 Cam              | $250         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/espcam.jpg |
+| Controlador ESP32-Cam   | $100         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/espcamController.jpg |
+| Protoboard              | $50          | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/protoboard.jpg |
+| Motor servo             | $70          | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/servo.jpg |
+| Cables                  | $100         | Varios   | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/cables.jpg |
 
 ## Boceto
 
@@ -59,11 +59,11 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 **Materiales**
 | Material                | Precio (MXN) | Cantidad | Imagen |
 |-------------------------|--------------|----------|--------|
-| Placa ESP-32            | $250         | 1        | [Imagen] |
-| Sensores ultrasónicos   | $80          | 2        | [Imagen] |
-| Buzzer activo           | $30          | 1        | [Imagen] |
-| Protoboard              | $100         | 1        | [Imagen] |
-| Cables                  | $100         | Varios   | [Imagen] |
+| Placa ESP-32            | $250         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/esp32.jpg |
+| Sensores ultrasónicos   | $80          | 2        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/ultrasonico.jpg |
+| Buzzer activo           | $30          | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/buzzer.jpg |
+| Protoboard              | $100         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/protoboard.jpg |
+| Cables                  | $100         | Varios   | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/cables.jpg |
 
 ## Boceto
 
@@ -76,12 +76,12 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci�
 **Materiales**
 | Material                | Precio (MXN) | Cantidad | Imagen |
 |-------------------------|--------------|----------|--------|
-| Placa ESP-32            | $350         | 1        | [Imagen] |
-| Sensor RFID             | $150         | 1        | [Imagen] |
-| Etiquetas RFID          | $20          | Varios   | [Imagen] |
-| Buzzer activo KY        | $30          | 1        | [Imagen] |
-| Protoboard              | $100         | 1        | [Imagen] |
-| Cables                  | $100         | Varios   | [Imagen] |
+| Placa ESP-32            | $350         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/esp32.jpg |
+| Sensor RFID             | $150         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/rfid.jpg |
+| Etiquetas RFID          | $20          | Varios   | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/etiquetasRFID.jpg |
+| Buzzer activo KY        | $30          | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/buzzer.jpg |
+| Protoboard              | $100         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/protoboard.jpg |
+| Cables                  | $100         | Varios   | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/cables.jpg |
 
 ## Boceto
 
@@ -94,11 +94,11 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 **Materiales**
 | Material                | Precio (MXN) | Cantidad | Imagen |
 |-------------------------|--------------|----------|--------|
-| Placa ESP-32            | $350         | 1        | [Imagen] |
-| Sensor PIR              | $100         | 1        | [Imagen] |
-| Motor stepper           | $300         | 4        | [Imagen] |
-| Protoboard              | $100         | 2        | [Imagen] |
-| Cables                  | $50          | Varios   | [Imagen] |
+| Placa ESP-32            | $350         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/esp32.jpg |
+| Sensor PIR              | $100         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/sensorMovimiento.jpg |
+| Motor stepper           | $300         | 1        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/motorapaso.jpg |
+| Protoboard              | $100         | 2        | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/protoboard.jpg |
+| Cables                  | $50          | Varios   | https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/imagenes/cables.jpg |
 
 ## Boceto
 
