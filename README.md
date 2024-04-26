@@ -49,31 +49,31 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 | Motor servo             | $70          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8489d51e-cc61-467f-876e-7fa0e0ceed10)|
 | Cables                  | $100         | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312)|
 
-## Boceto
+### Boceto
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/ba4667d5-4543-46c4-8259-1a9011765fe9)
 
-## Conexión fritzing
+### Conexión fritzing
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/94b591ef-cefa-4812-b947-dd8efc48f10b)
 
-## Proceso construcción
+### Proceso construcción
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/d531f2d8-c99e-435e-92f6-0ad39b77bea8)
 
-## Nodos node-red
+### Nodos node-red
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/eef0dae9-e5cc-4538-b704-9ba4ee0663b3)
 
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/beb0e991-6ea7-41c2-9abf-e6627f99ff8a)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a34024c7-7c4f-423d-96fd-a17bfdac9263)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/12bfbb4f-6d9e-45ad-a4f3-5af27a52cde3)
 |
 
-## Base de datos
+### Base de datos
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a174c9fc-1f64-4887-81c1-490f2dcc5344)
 
 
-### Sistema de Alerta para Entrada de Clientes
+## Sistema de Alerta para Entrada de Clientes
 Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer activo que alertará al personal del estudio cuando un cliente entre al local. Este sistema mejorará la atención al cliente al permitirnos recibirlos de manera inmediata y personalizada, maximizando así las oportunidades de venta.
 
 **Materiales**
@@ -85,31 +85,31 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 | Protoboard              | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7) |
 | Cables                  | $100         | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
 
-## Boceto
+### Boceto
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a3c3b2e6-9232-4335-b2b4-72fffbb46e6f)
 
-## Conexión fritzing
+### Conexión fritzing
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/d8c15a3e-a9de-4bb7-a349-05c51dc97cf0)
 
-## Proceso construcción
+### Proceso construcción
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/09e13a82-9b8a-49ed-abf5-7ed780b73b2d)
 
-## Nodos node-red
+### Nodos node-red
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b2859deb-3986-4dc0-b1f8-792a4400b55a)
 
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/22888a1b-4abb-4f8a-ab16-fd4a3199161e)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/6ae970f1-37e1-4c60-ae13-1ad8b595ae67)
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/de2f324e-0ea6-42e9-8928-3b2077012fcc)|
 
-## Base de datos
+### Base de datos
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/78eed271-e84c-48c4-8106-99f2fc6a8639)
 
 
-### Control de Inventario con RFID
+## Control de Inventario con RFID
 Implementaremos un sistema de control de inventario mediante RFID (Identificación por Radiofrecuencia). Colocaremos etiquetas RFID en los objetos del inventario y utilizaremos un sensor RFID para escanear estas etiquetas y mantener un registro en tiempo real de los objetos que entran o salen del local. Esto nos permitirá tener un control de inventario más preciso y reducir el riesgo de pérdidas.
 
 **Materiales**
@@ -122,19 +122,19 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci�
 | Protoboard              | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7) |
 | Cables                  | $100         | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
 
-## Boceto
+### Boceto
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/3a58646c-79ca-4f23-b560-e5588fd511a8)
 
-## Conexión fritzing
+### Conexión fritzing
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/41b62a24-47db-469e-a06b-e332ed416e61)
 
-## Proceso construcción
+### Proceso construcción
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/6952a0bf-3fac-4576-bed3-6be937968e7f)
 
-## Nodos node-red
+### Nodos node-red
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/5a682811-8452-450b-a997-b563feb306da)
 
@@ -142,12 +142,12 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci�
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/82352eb0-fd75-44d3-9d51-552ef05cef10)
 |
 
-## Base de datos
+### Base de datos
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b5e76e26-705d-4c8f-940c-560f3045584f)
 
 
-### Mostrador Fotográfico Interactivo
+## Mostrador Fotográfico Interactivo
 Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor stepper. Cuando alguien se acerque al mostrador, el sensor PIR activará el motor stepper, poniendo en movimiento una base giratoria que exhibirá muestras fotográficas de los trabajos realizados. Este sistema ofrecerá una presentación dinámica y atractiva del portafolio del estudio, captando la atención de los clientes y promocionando de manera efectiva nuestros servicios fotográficos.
 
 **Materiales**
@@ -160,20 +160,20 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 | Cables                  | $50          | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
 | Display                 | $60          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/82f96719-8c6f-4ac5-a2a1-630fb65fbb6b)|
 
-## Boceto
+### Boceto
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/e6c000fd-43c2-4ce3-b355-ae34713cf552)
 
 
-## Conexión fritzing
+### Conexión fritzing
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b7803074-29fe-4cad-93e9-b88968e4002e)
 
-## Proceso construcción
+### Proceso construcción
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/f4c27265-d66f-42c5-9122-8a96f74443e2)
 
-## Nodos node-red
+### Nodos node-red
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/939644c4-8d7a-4065-87d2-f8692c674f18)
 
@@ -181,7 +181,7 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/4624546d-2133-47aa-8bcc-9628a8f32402)
 |
 
-## Base de datos
+### Base de datos
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/101e6f60-a8b0-4a99-be88-b67134115aee)
 
