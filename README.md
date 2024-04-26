@@ -58,7 +58,6 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/94b591ef-cefa-4812-b947-dd8efc48f10b)
 
 
-
 ### Sistema de Alerta para Entrada de Clientes
 Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer activo que alertará al personal del estudio cuando un cliente entre al local. Este sistema mejorará la atención al cliente al permitirnos recibirlos de manera inmediata y personalizada, maximizando así las oportunidades de venta.
 
@@ -78,6 +77,10 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 ## Conexión fritzing
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/d8c15a3e-a9de-4bb7-a349-05c51dc97cf0)
+
+## Proceso construcción
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/09e13a82-9b8a-49ed-abf5-7ed780b73b2d)
 
 
 ### Control de Inventario con RFID
