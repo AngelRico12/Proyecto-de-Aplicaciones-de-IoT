@@ -68,6 +68,11 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/beb0e991-6ea7-41c2-9abf-e6627f99ff8a)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a34024c7-7c4f-423d-96fd-a17bfdac9263)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/12bfbb4f-6d9e-45ad-a4f3-5af27a52cde3)
 |
 
+## Base de datos
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a174c9fc-1f64-4887-81c1-490f2dcc5344)
+
+
 ### Sistema de Alerta para Entrada de Clientes
 Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer activo que alertará al personal del estudio cuando un cliente entre al local. Este sistema mejorará la atención al cliente al permitirnos recibirlos de manera inmediata y personalizada, maximizando así las oportunidades de venta.
 
