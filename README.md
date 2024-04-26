@@ -119,14 +119,14 @@ https://drive.google.com/file/d/1kFupxTBYBXSfS1tc85ff3FBNZrJpzS2b/view?usp=drive
 Implementaremos un sistema de control de inventario mediante RFID (Identificación por Radiofrecuencia). Colocaremos etiquetas RFID en los objetos del inventario y utilizaremos un sensor RFID para escanear estas etiquetas y mantener un registro en tiempo real de los objetos que entran o salen del local. Esto nos permitirá tener un control de inventario más preciso y reducir el riesgo de pérdidas.
 
 **Materiales**
-| Material                | Precio (MXN) | Cantidad | Imagen |
-|-------------------------|--------------|----------|--------|
-| Placa ESP-32            | $350         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8ebe7e59-6268-4eae-b684-dd0d2acd6e15) |
-| Sensor RFID             | $150         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/c56e9a4d-c73c-490c-a532-7d67760dcec7)|
-| Etiquetas RFID          | $20          | 5        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/5393b80b-5f70-4dfc-8b7f-214d6d4c3294)|
-| Buzzer activo KY        | $30          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/de9b1723-fa49-4aa6-b563-6baa67a16618) |
-| Protoboard              | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7) |
-| Cables                  | $100         | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
+| Material                | Precio (MXN) | Cantidad | Descripción | Imagen |
+|-------------------------|--------------|----------|-------------|--------|
+| Placa ESP-32            | $350         | 1        | Una placa de desarrollo que utiliza el chip ESP32, conocido por su versatilidad y capacidad de conectividad inalámbrica. Es ideal para proyectos de IoT y aplicaciones embebidas. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8ebe7e59-6268-4eae-b684-dd0d2acd6e15) |
+| Sensor RFID             | $150         | 1        | Un sensor que utiliza tecnología de identificación por radiofrecuencia para detectar etiquetas o tarjetas RFID cercanas. Es comúnmente utilizado en sistemas de control de acceso, inventario y seguimiento. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/c56e9a4d-c73c-490c-a532-7d67760dcec7)|
+| Etiquetas RFID          | $20          | 5        | Etiquetas o tarjetas RFID que se utilizan con el sensor RFID para identificación y seguimiento de objetos. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/5393b80b-5f70-4dfc-8b7f-214d6d4c3294)|
+| Buzzer activo KY        | $30          | 1        | Un buzzer que produce sonido cuando se le aplica una corriente eléctrica. Se utiliza comúnmente para generar alertas auditivas en proyectos electrónicos. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/de9b1723-fa49-4aa6-b563-6baa67a16618) |
+| Protoboard              | $100         | 1        | Una placa de pruebas que permite la conexión temporal de componentes electrónicos para prototipado y desarrollo de circuitos. Esencial para proyectos de electrónica. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7) |
+| Cables                  | $100         | Varios   | Conjunto de cables variados, posiblemente incluyendo cables jumper macho-macho, macho-hembra y hembra-hembra. Se utilizan para la conexión de componentes electrónicos en protoboard y otros fines de conexión. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
 
 ### Boceto
 
