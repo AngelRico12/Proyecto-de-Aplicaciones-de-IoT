@@ -132,6 +132,10 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci√
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/3a58646c-79ca-4f23-b560-e5588fd511a8)
 
+### Carcaza Tinkercad
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/4bbdd2a7-a415-4ac4-a0fd-08c32dda3c3f)
+
 ### Conexi√≥n fritzing
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/41b62a24-47db-469e-a06b-e332ed416e61)
