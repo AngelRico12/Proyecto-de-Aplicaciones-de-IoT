@@ -66,6 +66,10 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/d531f2d8-c99e-435e-92f6-0ad39b77bea8)
 
+### Código micropython
+
+https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/codigos%20micropython/RFID.py
+
 ### Nodos node-red
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/eef0dae9-e5cc-4538-b704-9ba4ee0663b3)
