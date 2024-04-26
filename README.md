@@ -137,6 +137,11 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci�
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/82352eb0-fd75-44d3-9d51-552ef05cef10)
 |
 
+## Base de datos
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b5e76e26-705d-4c8f-940c-560f3045584f)
+
+
 ### Mostrador Fotográfico Interactivo
 Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor stepper. Cuando alguien se acerque al mostrador, el sensor PIR activará el motor stepper, poniendo en movimiento una base giratoria que exhibirá muestras fotográficas de los trabajos realizados. Este sistema ofrecerá una presentación dinámica y atractiva del portafolio del estudio, captando la atención de los clientes y promocionando de manera efectiva nuestros servicios fotográficos.
 
