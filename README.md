@@ -110,6 +110,10 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/d8c15a3e-a9de-4bb7-a349-05c51dc97cf0)
 
+### Código Micropython
+
+https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/codigos%20micropython/alarma.py
+
 ### Proceso construcción
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/09e13a82-9b8a-49ed-abf5-7ed780b73b2d)
@@ -203,6 +207,10 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 ### Conexión fritzing
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b7803074-29fe-4cad-93e9-b88968e4002e)
+
+### Código Micropython
+
+https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/codigos%20micropython/mostrador_giratorio.py
 
 ### Proceso construcción
 
