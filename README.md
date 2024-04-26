@@ -40,14 +40,14 @@ Para abordar los desafíos identificados en nuestro estudio fotográfico familia
 Implementaremos un sistema de detección y visualización de objetos mediante el circuito ESP-CAM. Este sistema utilizará sensores ultrasónicos y cámaras ESP-32 Cam para realizar un inventario visual rápido y preciso, eliminando así los errores y pérdidas de tiempo asociados con la gestión manual del inventario.
 
 **Materiales**
-| Material                | Precio (MXN) | Cantidad | Imagen |
-|-------------------------|--------------|----------|--------|
-| Placa ESP-32            | $250         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8ebe7e59-6268-4eae-b684-dd0d2acd6e15)|
-| ESP-32 Cam              | $250         | 1        | ![espcam](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8d904e35-9f18-4bfb-8c6c-6fd260f72d0b)|
-| Controlador ESP32-Cam   | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8527399e-e620-4480-aa8e-9f430a7d1281)|
-| Protoboard              | $50          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7)|
-| Motor servo             | $70          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8489d51e-cc61-467f-876e-7fa0e0ceed10)|
-| Cables                  | $100         | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312)|
+| Material                | Precio (MXN) | Cantidad | Descripción | Imagen |
+|-------------------------|--------------|----------|-------------|--------|
+| Placa ESP-32            | $250         | 1        | Una placa de desarrollo que utiliza el chip ESP32, conocido por su versatilidad y capacidad de conectividad inalámbrica. Es ideal para proyectos de IoT y aplicaciones embebidas. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8ebe7e59-6268-4eae-b684-dd0d2acd6e15)|
+| ESP-32 Cam              | $250         | 1        | Un módulo basado en el ESP32 que incluye una cámara, permitiendo la captura de imágenes y vídeos. Es útil para proyectos de vigilancia, monitoreo remoto y detección de movimiento. | ![espcam](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8d904e35-9f18-4bfb-8c6c-6fd260f72d0b)|
+| Controlador ESP32-Cam   | $100         | 1        | Un controlador específico para el módulo ESP-32 Cam, que facilita su conexión y programación. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8527399e-e620-4480-aa8e-9f430a7d1281)|
+| Protoboard              | $50          | 1        | Una placa de pruebas que permite la conexión temporal de componentes electrónicos para prototipado y desarrollo de circuitos. Esencial para proyectos de electrónica. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7)|
+| Motor servo             | $70          | 1        | Un tipo de motor que se utiliza en aplicaciones que requieren movimiento preciso y controlado. Es comúnmente empleado en proyectos de robótica y mecanismos de control. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8489d51e-cc61-467f-876e-7fa0e0ceed10)|
+| Cables                  | $100         | Varios   | Conjunto de cables variados, posiblemente incluyendo cables jumper macho-macho, macho-hembra y hembra-hembra. Se utilizan para la conexión de componentes electrónicos en protoboard y otros fines de conexión. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312)|
 
 ### Boceto
 
