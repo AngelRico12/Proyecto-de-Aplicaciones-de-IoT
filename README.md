@@ -92,6 +92,11 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a3c3b2e6-9232-4335-b2b4-72fffbb46e6f)
 
+### Carcasa Tinkercad
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/0851c1c0-9cc2-4fa3-8263-b3edf3e3f439)
+
+
 ### Conexión fritzing
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/d8c15a3e-a9de-4bb7-a349-05c51dc97cf0)
