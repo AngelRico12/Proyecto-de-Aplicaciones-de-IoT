@@ -66,10 +66,6 @@ Implementaremos un sistema de detecci처n y visualizaci처n de objetos mediante el
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/d531f2d8-c99e-435e-92f6-0ad39b77bea8)
 
-### C처digo micropython
-
-https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/codigos%20micropython/RFID.py
-
 ### Nodos node-red
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/eef0dae9-e5cc-4538-b704-9ba4ee0663b3)
@@ -153,6 +149,10 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci�
 ### Conexi처n fritzing
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/41b62a24-47db-469e-a06b-e332ed416e61)
+
+### C처digo micropython
+
+https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/codigos%20micropython/RFID.py
 
 ### Proceso construcci처n
 
