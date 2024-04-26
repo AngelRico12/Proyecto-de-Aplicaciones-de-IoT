@@ -62,6 +62,10 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/94b591ef-cefa-4812-b947-dd8efc48f10b)
 
+### Código Micropython
+
+https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/blob/main/codigos%20micropython/camara_servo.py
+
 ### Proceso construcción
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/d531f2d8-c99e-435e-92f6-0ad39b77bea8)
