@@ -80,13 +80,13 @@ https://drive.google.com/file/d/13jRXSBxbHsxH7EKlff8PnEvUKCuB4JGd/view?usp=drive
 Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer activo que alertará al personal del estudio cuando un cliente entre al local. Este sistema mejorará la atención al cliente al permitirnos recibirlos de manera inmediata y personalizada, maximizando así las oportunidades de venta.
 
 **Materiales**
-| Material                | Precio (MXN) | Cantidad | Imagen |
-|-------------------------|--------------|----------|--------|
-| Placa ESP-32            | $250         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8ebe7e59-6268-4eae-b684-dd0d2acd6e15) |
-| Sensores ultrasónicos   | $80          | 2        | ![ultrasonico](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b20bad43-c1d6-4a52-987a-1e52206c94f2)|
-| Buzzer activo           | $30          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/de9b1723-fa49-4aa6-b563-6baa67a16618)|
-| Protoboard              | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7) |
-| Cables                  | $100         | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
+| Material                | Precio (MXN) | Cantidad | Descripción | Imagen |
+|-------------------------|--------------|----------|-------------|--------|
+| Placa ESP-32            | $250         | 1        | Una placa de desarrollo que utiliza el chip ESP32, conocido por su versatilidad y capacidad de conectividad inalámbrica. Es ideal para proyectos de IoT y aplicaciones embebidas. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8ebe7e59-6268-4eae-b684-dd0d2acd6e15) |
+| Sensores ultrasónicos   | $80          | 2        | Sensores utilizados para medir distancias mediante ondas ultrasónicas. Son comúnmente usados en proyectos de detección de objetos y sistemas de asistencia al conductor. | ![ultrasonico](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b20bad43-c1d6-4a52-987a-1e52206c94f2)|
+| Buzzer activo           | $30          | 1        | Un buzzer que produce sonido cuando se le aplica una corriente eléctrica. Se utiliza comúnmente para generar alertas auditivas en proyectos electrónicos. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/de9b1723-fa49-4aa6-b563-6baa67a16618)|
+| Protoboard              | $100         | 1        | Una placa de pruebas que permite la conexión temporal de componentes electrónicos para prototipado y desarrollo de circuitos. Esencial para proyectos de electrónica. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7) |
+| Cables                  | $100         | Varios   | Conjunto de cables variados, posiblemente incluyendo cables jumper macho-macho, macho-hembra y hembra-hembra. Se utilizan para la conexión de componentes electrónicos en protoboard y otros fines de conexión. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
 
 ### Boceto
 
