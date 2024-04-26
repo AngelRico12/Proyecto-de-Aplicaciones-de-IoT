@@ -123,6 +123,10 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b7803074-29fe-4cad-93e9-b88968e4002e)
 
+## Proceso construcción
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/f4c27265-d66f-42c5-9122-8a96f74443e2)
+
 
 ## Software
 - Thonny
