@@ -198,6 +198,19 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 
 https://drive.google.com/file/d/1X5rBK6hsIS6Cf4ui32ePP9qBTa1jJbnJ/view?usp=drive_link
 
+## Control Dashboard
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/92a9e659-c68c-47c7-9481-0f12f34e6e8c)
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/7cd1a5e2-67c8-40af-a229-fbea1a6519a2)
+
+|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/65bb73ef-4d51-41d2-adaa-47559b38d00f)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/63bb40b1-c28d-400d-9d10-af7fd67db11d)
+|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/17a148f3-2eda-4192-bdc0-c30df3eb0abf)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/1e12b40f-9292-4367-9f94-3cab10cc9783)
+|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/491f2bba-6f19-43e2-b78c-f428786ea21f)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a15b0bf5-41c6-48f2-8d74-59d5d7cf739d)
+|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/558f6400-26d4-4c4b-a54c-898f7b36d347)
+|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/81b200f1-70c8-42d6-bfea-b0997488ca06)
+|
+
 ## Software Utilizado
 - Thonny
 - Grafana
