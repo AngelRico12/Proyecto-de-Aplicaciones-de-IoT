@@ -53,6 +53,11 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/ba4667d5-4543-46c4-8259-1a9011765fe9)
 
+### Carcaza Tinkercad
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a5e66a84-f3de-477a-908e-7bc5ebbbd128)
+
+
 ### Conexión fritzing
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/94b591ef-cefa-4812-b947-dd8efc48f10b)
