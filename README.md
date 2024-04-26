@@ -218,7 +218,7 @@ https://drive.google.com/file/d/1X5rBK6hsIS6Cf4ui32ePP9qBTa1jJbnJ/view?usp=drive
 - Node-Red
 - Fritzing
 - Aplicación de la ESP-32 Cam
-- 
+  
 ## Conexión y Funcionalidad 
 
 | ID  | Historia de Usuario                            | Prioridad | Estimación | Como Probarlo   | Responsable |
