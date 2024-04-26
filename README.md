@@ -61,6 +61,157 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/d531f2d8-c99e-435e-92f6-0ad39b77bea8)
 
+## Nodos node-red
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/eef0dae9-e5cc-4538-b704-9ba4ee0663b3)
+
+|[
+    {
+        "id": "968c565030a8bbdf",
+        "type": "mqtt in",
+        "z": "b05da65af15284d8",
+        "name": "Recibir MQTT",
+        "topic": "servo/status",
+        "qos": "2",
+        "datatype": "json",
+        "broker": "b43cb77a.8ffbd8",
+        "nl": false,
+        "rap": false,
+        "inputs": 0,
+        "x": 150,
+        "y": 280,
+        "wires": [
+            [
+                "7bc9741be93b7c73",
+                "41a6525616924c2e"
+            ]
+        ]
+    },
+    {
+        "id": "7bc9741be93b7c73",
+        "type": "debug",
+        "z": "b05da65af15284d8",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 440,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "8b23bb910ea3af5f",
+        "type": "postgresql",
+        "z": "b05da65af15284d8",
+        "name": "",
+        "query": "INSERT INTO servo_data (timestamp, angle, distance) VALUES (NOW(), $1, $2);\n",
+        "postgreSQLConfig": "49c448cf338bd2d2",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 610,
+        "y": 260,
+        "wires": [
+            [
+                "aaa34973f64e5579"
+            ]
+        ]
+    },
+    {
+        "id": "41a6525616924c2e",
+        "type": "function",
+        "z": "b05da65af15284d8",
+        "name": "function 3",
+        "func": "// Lee el payload del mensaje MQTT\nvar payload = msg.payload;\n\n// Construye la consulta SQL con los valores del mensaje\nvar query = \"INSERT INTO servo_data (timestamp, angle, distance) VALUES (NOW(), \" + payload.angle + \", \" + payload.distance + \");\";\n\n// Guarda la consulta SQL en el objeto de mensaje para ser enviado al siguiente nodo\nmsg.query = query;\n\n// Retorna el mensaje modificado\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 340,
+        "wires": [
+            [
+                "8b23bb910ea3af5f"
+            ]
+        ]
+    },
+    {
+        "id": "aaa34973f64e5579",
+        "type": "debug",
+        "z": "b05da65af15284d8",
+        "name": "debug 3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "b43cb77a.8ffbd8",
+        "type": "mqtt-broker",
+        "name": "Broker MQTT",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "49c448cf338bd2d2",
+        "type": "postgreSQLConfig",
+        "name": "aiot_connection",
+        "host": "127.0.0.1",
+        "hostFieldType": "str",
+        "port": "5432",
+        "portFieldType": "num",
+        "database": "aiot",
+        "databaseFieldType": "str",
+        "ssl": "false",
+        "sslFieldType": "bool",
+        "applicationName": "",
+        "applicationNameType": "str",
+        "max": "10",
+        "maxFieldType": "num",
+        "idle": "1000",
+        "idleFieldType": "num",
+        "connectionTimeout": "10000",
+        "connectionTimeoutFieldType": "num",
+        "user": "postgres",
+        "userFieldType": "str",
+        "password": "123456",
+        "passwordFieldType": "str"
+    }
+]|
+
+
 
 ### Sistema de Alerta para Entrada de Clientes
 Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer activo que alertará al personal del estudio cuando un cliente entre al local. Este sistema mejorará la atención al cliente al permitirnos recibirlos de manera inmediata y personalizada, maximizando así las oportunidades de venta.
