@@ -99,6 +99,7 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci�
 
 ## Conexión fritzing
 
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/41b62a24-47db-469e-a06b-e332ed416e61)
 
 
 ### Mostrador Fotográfico Interactivo
