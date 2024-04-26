@@ -72,6 +72,9 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a174c9fc-1f64-4887-81c1-490f2dcc5344)
 
+### Video funcionamiento
+
+https://drive.google.com/file/d/13jRXSBxbHsxH7EKlff8PnEvUKCuB4JGd/view?usp=drive_link
 
 ## Sistema de Alerta para Entrada de Clientes
 Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer activo que alertará al personal del estudio cuando un cliente entre al local. Este sistema mejorará la atención al cliente al permitirnos recibirlos de manera inmediata y personalizada, maximizando así las oportunidades de venta.
@@ -108,6 +111,9 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/78eed271-e84c-48c4-8106-99f2fc6a8639)
 
+### Video funcionamiento
+
+https://drive.google.com/file/d/1kFupxTBYBXSfS1tc85ff3FBNZrJpzS2b/view?usp=drive_link
 
 ## Control de Inventario con RFID
 Implementaremos un sistema de control de inventario mediante RFID (Identificación por Radiofrecuencia). Colocaremos etiquetas RFID en los objetos del inventario y utilizaremos un sensor RFID para escanear estas etiquetas y mantener un registro en tiempo real de los objetos que entran o salen del local. Esto nos permitirá tener un control de inventario más preciso y reducir el riesgo de pérdidas.
@@ -146,6 +152,9 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci�
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b5e76e26-705d-4c8f-940c-560f3045584f)
 
+### Video de funcionamiento
+
+https://drive.google.com/file/d/1w9sB0GDTlvqu20N9vn3VAbqZQgY9aVF2/view?usp=drive_link
 
 ## Mostrador Fotográfico Interactivo
 Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor stepper. Cuando alguien se acerque al mostrador, el sensor PIR activará el motor stepper, poniendo en movimiento una base giratoria que exhibirá muestras fotográficas de los trabajos realizados. Este sistema ofrecerá una presentación dinámica y atractiva del portafolio del estudio, captando la atención de los clientes y promocionando de manera efectiva nuestros servicios fotográficos.
@@ -185,6 +194,9 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/101e6f60-a8b0-4a99-be88-b67134115aee)
 
+### Video funcionamiento
+
+https://drive.google.com/file/d/1X5rBK6hsIS6Cf4ui32ePP9qBTa1jJbnJ/view?usp=drive_link
 
 ## Software
 - Thonny
