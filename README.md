@@ -99,6 +99,11 @@ Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer ac
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/22888a1b-4abb-4f8a-ab16-fd4a3199161e)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/6ae970f1-37e1-4c60-ae13-1ad8b595ae67)
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/de2f324e-0ea6-42e9-8928-3b2077012fcc)|
 
+## Base de datos
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/78eed271-e84c-48c4-8106-99f2fc6a8639)
+
+
 ### Control de Inventario con RFID
 Implementaremos un sistema de control de inventario mediante RFID (Identificación por Radiofrecuencia). Colocaremos etiquetas RFID en los objetos del inventario y utilizaremos un sensor RFID para escanear estas etiquetas y mantener un registro en tiempo real de los objetos que entran o salen del local. Esto nos permitirá tener un control de inventario más preciso y reducir el riesgo de pérdidas.
 
