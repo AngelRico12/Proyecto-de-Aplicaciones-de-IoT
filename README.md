@@ -219,3 +219,5 @@ https://drive.google.com/file/d/1X5rBK6hsIS6Cf4ui32ePP9qBTa1jJbnJ/view?usp=drive
 | 7   | Desarrollo del mostrador fotográfico interactivo con sensor PIR y motor stepper | Alta | 8 horas | Probar la interacción del sensor PIR con el motor stepper para asegurarse de que el mostrador fotográfico se active de manera adecuada cuando un cliente se acerque y exhiba las muestras fotográficas de forma dinámica. | Jose Angel y Angel Huerta |
 | 8   | Implementación de software de monitoreo y control (Thonny, Grafana, Node-Red) | Media | 6 horas | Verificar que el software de monitoreo y control esté instalado y configurado correctamente en las plataformas pertinentes (Raspberry Pi, ESP32) y que proporcione una interfaz fácil de usar para gestionar los sistemas domóticos. | Angel Huerta |
 
+
+
