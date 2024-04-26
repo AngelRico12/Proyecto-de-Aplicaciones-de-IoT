@@ -12,7 +12,7 @@ spi = SPI(1, baudrate=1000000, polarity=0, phase=0, sck=sck, mosi=mosi, miso=mis
 
 # Configuración del lector RFID
 rst_pin = Pin(13, Pin.OUT)
-cs_pin = Pin(5, Pin.OUT)
+cs_pin = Pin(15, Pin.OUT)
 rfid = MFRC522(spi, rst_pin, cs_pin)
 
 SSID = "Angel"
