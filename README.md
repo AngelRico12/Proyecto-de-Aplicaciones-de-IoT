@@ -65,7 +65,7 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/eef0dae9-e5cc-4538-b704-9ba4ee0663b3)
 
-|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/beb0e991-6ea7-41c2-9abf-e6627f99ff8a)||
+|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/beb0e991-6ea7-41c2-9abf-e6627f99ff8a)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a34024c7-7c4f-423d-96fd-a17bfdac9263)|
 
 
 
