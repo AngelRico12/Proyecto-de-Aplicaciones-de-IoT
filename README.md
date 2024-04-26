@@ -221,5 +221,8 @@ https://drive.google.com/file/d/1X5rBK6hsIS6Cf4ui32ePP9qBTa1jJbnJ/view?usp=drive
 
 ### Video agradecimiento
 
+https://drive.google.com/file/d/147XoIXfEQK7N2dSqAHOD07JSAA2tIm6a/view?usp=drive_link
 
+### Carta de satisfacción firmada
 
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/b3669434-d5c4-4f0e-b430-a7a99382340c)
