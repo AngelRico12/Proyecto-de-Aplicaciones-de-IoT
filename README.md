@@ -229,6 +229,10 @@ https://drive.google.com/file/d/1X5rBK6hsIS6Cf4ui32ePP9qBTa1jJbnJ/view?usp=drive
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/81b200f1-70c8-42d6-bfea-b0997488ca06)
 |
 
+## Uso de Grafana
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/473b59f0-9112-4fc7-9c4a-e1c2539b656e)
+
 ## Software Utilizado
 - Thonny
 - Grafana
