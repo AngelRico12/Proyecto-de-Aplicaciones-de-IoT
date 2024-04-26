@@ -143,6 +143,7 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 | Motor stepper           | $300         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/398f7a7d-255c-4c30-9202-4006ed713986)|
 | Protoboard              | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7) |
 | Cables                  | $50          | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
+| Display                 | $60          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/82f96719-8c6f-4ac5-a2a1-630fb65fbb6b)|
 
 ## Boceto
 
