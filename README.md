@@ -187,6 +187,10 @@ Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor ste
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/e6c000fd-43c2-4ce3-b355-ae34713cf552)
 
+### Carcaza Tinkercad
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/214354b9-bdc7-451d-ab16-767705dabae8)
+
 
 ### Conexión fritzing
 
