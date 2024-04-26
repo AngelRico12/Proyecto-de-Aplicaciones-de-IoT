@@ -160,14 +160,14 @@ https://drive.google.com/file/d/1w9sB0GDTlvqu20N9vn3VAbqZQgY9aVF2/view?usp=drive
 Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor stepper. Cuando alguien se acerque al mostrador, el sensor PIR activará el motor stepper, poniendo en movimiento una base giratoria que exhibirá muestras fotográficas de los trabajos realizados. Este sistema ofrecerá una presentación dinámica y atractiva del portafolio del estudio, captando la atención de los clientes y promocionando de manera efectiva nuestros servicios fotográficos.
 
 **Materiales**
-| Material                | Precio (MXN) | Cantidad | Imagen |
-|-------------------------|--------------|----------|--------|
-| Placa ESP-32            | $350         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8ebe7e59-6268-4eae-b684-dd0d2acd6e15) |
-| Sensor PIR              | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/941043c5-ed4a-4c24-aea6-b73fb3e73ba7)|
-| Motor stepper           | $300         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/398f7a7d-255c-4c30-9202-4006ed713986)|
-| Protoboard              | $100         | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7) |
-| Cables                  | $50          | Varios   | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
-| Display                 | $60          | 1        | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/82f96719-8c6f-4ac5-a2a1-630fb65fbb6b)|
+| Material                | Precio (MXN) | Cantidad | Descripción | Imagen |
+|-------------------------|--------------|----------|-------------|--------|
+| Placa ESP-32            | $350         | 1        | Una placa de desarrollo que utiliza el chip ESP32, conocido por su versatilidad y capacidad de conectividad inalámbrica. Es ideal para proyectos de IoT y aplicaciones embebidas. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8ebe7e59-6268-4eae-b684-dd0d2acd6e15) |
+| Sensor PIR              | $100         | 1        | Un sensor de movimiento pasivo (PIR) que detecta cambios en el nivel de radiación infrarroja en su entorno, generalmente utilizado para detectar movimiento en sistemas de seguridad y automatización. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/941043c5-ed4a-4c24-aea6-b73fb3e73ba7)|
+| Motor stepper           | $300         | 1        | Un tipo de motor que mueve su eje en pequeños incrementos angulares o pasos. Es utilizado en aplicaciones que requieren precisión de movimiento, como impresoras 3D, CNC, y sistemas de posicionamiento. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/398f7a7d-255c-4c30-9202-4006ed713986)|
+| Protoboard              | $100         | 1        | Una placa de pruebas que permite la conexión temporal de componentes electrónicos para prototipado y desarrollo de circuitos. Esencial para proyectos de electrónica. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/8f81780f-abb6-4323-a1e3-15c5300124a7) |
+| Cables                  | $50          | Varios   | Conjunto de cables variados, posiblemente incluyendo cables jumper macho-macho, macho-hembra y hembra-hembra. Se utilizan para la conexión de componentes electrónicos en protoboard y otros fines de conexión. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/dbef21da-1408-4371-a0a7-a4664cba8312) |
+| Display                 | $60          | 1        | Un display que muestra información visual, como texto o gráficos. Puede ser utilizado en una variedad de proyectos electrónicos para mostrar datos al usuario. | ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/82f96719-8c6f-4ac5-a2a1-630fb65fbb6b)|
 
 ### Boceto
 
