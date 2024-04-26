@@ -68,8 +68,6 @@ Implementaremos un sistema de detección y visualización de objetos mediante el
 |![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/beb0e991-6ea7-41c2-9abf-e6627f99ff8a)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/a34024c7-7c4f-423d-96fd-a17bfdac9263)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/12bfbb4f-6d9e-45ad-a4f3-5af27a52cde3)
 |
 
-
-
 ### Sistema de Alerta para Entrada de Clientes
 Desarrollaremos un detector de entrada con sensores ultrasónicos y un buzzer activo que alertará al personal del estudio cuando un cliente entre al local. Este sistema mejorará la atención al cliente al permitirnos recibirlos de manera inmediata y personalizada, maximizando así las oportunidades de venta.
 
@@ -126,6 +124,13 @@ Implementaremos un sistema de control de inventario mediante RFID (Identificaci�
 
 ![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/6952a0bf-3fac-4576-bed3-6be937968e7f)
 
+## Nodos node-red
+
+![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/5a682811-8452-450b-a997-b563feb306da)
+
+|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/ebaad735-7525-4af8-86f0-ab6f22675ecc)|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/21591f42-afd1-4b38-9b60-0e6e341a651b)
+|![image](https://github.com/AngelRico12/Proyecto-de-Aplicaciones-de-IoT/assets/137667970/82352eb0-fd75-44d3-9d51-552ef05cef10)
+|
 
 ### Mostrador Fotográfico Interactivo
 Crearemos un mostrador fotográfico interactivo con un sensor PIR y un motor stepper. Cuando alguien se acerque al mostrador, el sensor PIR activará el motor stepper, poniendo en movimiento una base giratoria que exhibirá muestras fotográficas de los trabajos realizados. Este sistema ofrecerá una presentación dinámica y atractiva del portafolio del estudio, captando la atención de los clientes y promocionando de manera efectiva nuestros servicios fotográficos.
